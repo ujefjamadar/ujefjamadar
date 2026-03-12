@@ -164,8 +164,7 @@ status:     Open to opportunities
 <br/>
 
 <!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:0d1117&height=130&section=footer&animation=fadeIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1117,100:0d1117&height=130&section=footer&animation=twinkling" width="100%"/>
 <div align="center">
   <code>// Built with focus &nbsp;·&nbsp; Shipped with care &nbsp;·&nbsp; ujefjamadar</code>
 </div>
